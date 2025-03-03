@@ -1,0 +1,26 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="48" height="48" rx="8" fill="#0f0f1b" />
+  
+  <!-- M letter (left) with gradient -->
+  <path d="M10 12L14 12L18 24L22 12L26 12L26 36L22 36L22 20L18 32L14 20L14 36L10 36L10 12Z" fill="url(#pink-gradient)" />
+  
+  <!-- M letter (right) with gradient -->
+  <path d="M24 12L28 12L32 24L36 12L40 12L40 36L36 36L36 20L32 32L28 20L28 36L24 36L24 12Z" fill="url(#blue-gradient)" />
+  
+  <!-- Glowing effect for both letters -->
+  <path d="M10 12L14 12L18 24L22 12L26 12L26 36L22 36L22 20L18 32L14 20L14 36L10 36L10 12Z" fill="url(#pink-gradient)" opacity="0.4" filter="blur(2px)" />
+  <path d="M24 12L28 12L32 24L36 12L40 12L40 36L36 36L36 20L32 32L28 20L28 36L24 36L24 12Z" fill="url(#blue-gradient)" opacity="0.4" filter="blur(2px)" />
+  
+  <!-- Define the gradients -->
+  <defs>
+    <linearGradient id="pink-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff2a6d" />
+      <stop offset="100%" style="stop-color:#d9005e" />
+    </linearGradient>
+    <linearGradient id="blue-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#05d9e8" />
+      <stop offset="100%" style="stop-color:#01a7b6" />
+    </linearGradient>
+  </defs>
+</svg>

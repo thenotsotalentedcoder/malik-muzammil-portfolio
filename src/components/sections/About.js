@@ -155,20 +155,16 @@ const About = () => {
                   </p>
                   
                   <p>
-                    I'm a <span className="text-cyber-pink font-semibold">Computer Science student</span> with a 
-                    focus on the cutting edge of <span className="text-cyber-blue">AI & Machine Learning</span>. 
-                    Not just studying the tech — I'm building and deploying it.
+                    I'm a <span className="text-cyber-pink font-semibold">Computer Science student</span> who's honestly just really into  <span className="text-cyber-blue">AI & Machine Learning</span>. 
+                    I started learning this stuff because it seemed cool, but now I'm hooked on building real systems that actually do something useful.
                   </p>
                   
                   <p>
-                    By day, I develop <span className="text-cyber-purple">advanced machine learning systems</span> 
-                    that transform complex data challenges into elegant solutions. By night, I craft 
-                    recommendation engines and predictive models that transform raw data 
-                    into strategic insights.
+                  When I'm working on a project, I get lost in the details - combing through data, tweaking models, and hunting for those small improvements that make everything click. It's like solving a puzzle where the pieces keep changing.
                   </p>
                   
                   <p>
-                    I don't just write code — I solve puzzles. I thrive on finding hidden patterns and connections in data that others miss, whether I'm developing predictive algorithms or engineering novel feature extraction techniques. Each project is an opportunity to push boundaries and explore new technological frontiers.
+                    I believe good code tells a story. The best solutions aren't just technically sound - they're elegant and make you think, "why didn't I see that before?"
                   </p>
                 </div>
                 
